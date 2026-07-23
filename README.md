@@ -6,7 +6,7 @@
 Self-taught robotics builder documenting real hands-on projects.
 
 🤖 Building robots with **ROS2**, **Raspberry Pi 5**, and **ESP32**
-🎥 Full builds, code walkthroughs, and failures included — [Watch on YouTube] — https://www.youtube.com/@prokopov.robotics
+🎥 Full builds, code walkthroughs, and failures included — https://www.youtube.com/@prokopov.robotics
 🔧 Currently working on: mobile robots, SLAM/navigation, robotic arms
 
 ### Tech stack
