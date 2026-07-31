@@ -1,13 +1,16 @@
-# ivanprokopov
-👋 About me — robotics builder documenting ROS2, Raspberry Pi &amp; ESP32 projects
+<img src="assets/profile-photo.jpg" width="140" align="right" />
 
 # Hi, I'm Ivan 👋
 
-Self-taught robotics builder documenting real hands-on projects.
+Embedded firmware developer working with C/C++ and ESP-IDF on real hardware.
 
-🤖 Building robots with **ROS2**, **Raspberry Pi 5**, and **ESP32**
-🎥 Full builds, code walkthroughs, and failures included — https://www.youtube.com/@prokopov.robotics
-🔧 Currently working on: mobile robots, SLAM/navigation, robotic arms
+🔧 Building on ESP32 with ESP-IDF: peripherals, FreeRTOS, camera-based projects
+🤖 Rebuilding a self-balancing rover's firmware natively on ESP-IDF — direct register-level I2C/PWM control instead of Arduino libraries
+
+<br clear="right"/>
 
 ### Tech stack
-`ROS2` `Python` `C++` `micro-ROS` `ESP-IDF` `Raspberry Pi`
+`C` `C++` `ESP-IDF` `FreeRTOS` `ESP32`
+
+### Projects
+- [esp32-idf-basics](https://github.com/prokopov-ai/esp32-idf-basics) — ESP-IDF projects, built and flashed on real hardware
