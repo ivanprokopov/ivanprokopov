@@ -4,7 +4,7 @@
 
 Embedded firmware developer working with C/C++ and ESP-IDF on real hardware.
 
-🔧 Building on ESP32 with ESP-IDF: peripherals, FreeRTOS, camera-based projects
+🔧 Building on ESP32 with ESP-IDF: peripherals, FreeRTOS, camera-based projects<br>
 🤖 Rebuilding a self-balancing rover's firmware natively on ESP-IDF — direct register-level I2C/PWM control instead of Arduino libraries
 
 <br clear="right"/>
