@@ -1,4 +1,4 @@
-<img src="assets/profile-photo.jpg" width="200" align="left" />
+<img src="assets/profile-photo.jpg" width="200" align="center" />
 
 # Hi, I'm Ivan 👋
 
