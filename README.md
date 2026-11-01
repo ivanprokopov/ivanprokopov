@@ -1,4 +1,4 @@
-<img src="assets/profile-photo.jpg" width="400" align="center" />
+<img src="assets/banner.jpg" alt="Prokopov Manufacturing" width="100%" />
 
 # Іван Прокопов
 
